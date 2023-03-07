@@ -1,0 +1,47 @@
+.principal{
+  background: #D3D3D3;
+}
+.titulo-principal{
+  text-align: center;
+  font-size: 45px;
+}
+.titulo-secundario{
+  text-align: center;
+  font-size: 35px;
+  color: #363636;
+}
+#texto{
+  font-size: 25px;
+  color: #4F4F4F;
+  font-style: italic;
+}
+#texto2{
+  font-size: 25px;
+  color: #4F4F4F;
+}
+#texto3{
+  font-size: 25px;
+  color: #4F4F4F;
+}
+.titulo-terciario{
+  text-align: center;
+  font-style: italic;
+  color: #FFFFFF;
+  padding: 30px;
+}
+.itens{
+  font-style: italic;
+  color: #000000;
+}
+.beneficios{
+  background: #DCDCDC;
+}
+ul{
+  display: inline-block;
+  font-size: 25px;
+  vertical-align: top;
+  margin-right: 15%;
+}
+#beneficios{
+  width: 50%;
+}
